@@ -1,1 +1,1 @@
-web: python dealscraper/MDSPlot.py
+web gunicorn manage:app
